@@ -19,5 +19,8 @@
   "dependencies": {
     "@lsj-cli-dev/utils": "^1.0.2"
   },
-  "gitHead": "28054c07767c732621999d40efe8922f45316429"
+  "gitHead": "e5730cfb12a2eb6b5ffdfc264a207d71e0729f17",
+  "bin": {
+    "lsj-cli-dev": "bin/index.js"
+  }
 }
