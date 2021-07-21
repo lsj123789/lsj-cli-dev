@@ -1,6 +1,6 @@
 {
   "name": "@lsj-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.0",
   " ": "lsj-cli-dev core",
   "author": "64+ <1375287603@qq.com>",
   "homepage": "",
@@ -19,7 +19,7 @@
   "dependencies": {
     "@lsj-cli-dev/utils": "^1.0.3"
   },
-  "gitHead": "e5730cfb12a2eb6b5ffdfc264a207d71e0729f17",
+  "gitHead": "cf20312c5701847df7297fd79ea4e72dac684acf",
   "bin": {
     "lsj-cli-dev": "bin/index.js"
   }
