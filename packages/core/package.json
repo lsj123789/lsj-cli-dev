@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@lsj-cli-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "28054c07767c732621999d40efe8922f45316429"
 }
