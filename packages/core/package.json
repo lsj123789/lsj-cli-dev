@@ -22,5 +22,8 @@
   "gitHead": "cf20312c5701847df7297fd79ea4e72dac684acf",
   "bin": {
     "lsj-cli-dev": "bin/index.js"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
