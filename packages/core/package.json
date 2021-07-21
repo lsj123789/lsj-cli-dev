@@ -1,6 +1,6 @@
 {
   "name": "@lsj-cli-dev/core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   " ": "lsj-cli-dev core",
   "author": "64+ <1375287603@qq.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@lsj-cli-dev/utils": "^1.0.4"
+    "@lsj-cli-dev/utils": "^1.0.5"
   },
   "gitHead": "cf20312c5701847df7297fd79ea4e72dac684acf",
   "bin": {
